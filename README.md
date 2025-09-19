@@ -2,8 +2,8 @@
 - 👀 I’m interested in building AI models.
 - 🌱 I’m currently learning Python (Django, Surprise, Pytorch...)
 
-- 📫 Reach me by Facebook: [ngynhogminh@gmail.com](https://www.facebook.com/ngynhogminh)
-- 📫 Reach me by Gmail: ngynhogminh@gmail.com
+- 📫 Reach me by [Facebook](https://www.facebook.com/ngynhogminh)
+- 📫 Reach me by [Gmail](ngynhogminh@gmail.com)
 
 <!---
 Pinminh/Pinminh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
